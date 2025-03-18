@@ -40,7 +40,7 @@
 |------|--------|---------|--------|
 | 박유림 | https://greenforest24.tistory.com | https://github.com/YurimPark04 | 4yrpbusiness@gmail.com |
 | 서지우 | [블로그 주소](#) | [GitHub 주소](#) | exampleB@email.com |
-| 이진언 | [블로그 주소](#) | [GitHub 주소](#) | exampleC@email.com |
+| 이진언 | https://dany0825.tistory.com/ | https://github.com/Dodan796 | dodan0825@gmail.com |
 | 한성연 | [블로그 주소](#) | [GitHub 주소](#) | exampleC@email.com |
 
 ---
